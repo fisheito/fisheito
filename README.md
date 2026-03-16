@@ -7,10 +7,10 @@
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
-<img width="400" height="400" alt="image" src="https://64.media.tumblr.com/82650b05300424c25b21c646fcd1cdf5/c9236764be8fbca1-64/s540x810/96950fba0057056a3c8f8f08fe86288fba1cdfa5.pnj" />
+<img width="300" height="300" alt="image" src="https://64.media.tumblr.com/82650b05300424c25b21c646fcd1cdf5/c9236764be8fbca1-64/s540x810/96950fba0057056a3c8f8f08fe86288fba1cdfa5.pnj" />
 </p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=fisheito&amp;label=♰&amp;color=171314" alt=""> 
 </p>
 <p align="center">
-<img width="99" height="56" alt="image" src=https://64.media.tumblr.com/efa376fe873e577e2a29948dfb09f11b/08136fe14c0616a2-14/s100x200/4736bd4413deba38f580cf77db8e617b1804e6d0.gif />
+<img width="56" height="56" alt="image" src=https://64.media.tumblr.com/a1119b09f2c93b4bb4f88678f4107c0f/3bf9185d18abb95b-43/s250x400/8cd044823220488a42cbf66a32ec4046bed19dde.gifv />
