@@ -7,7 +7,7 @@
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
-<img width="400" height="400" alt="image" src="https://64.media.tumblr.com/2bec84f0df0ecb10bcce094c75ad26da/28c956ac07ee69a9-f9/s1280x1920/046bcbc0c7dd0bbfb77fa1d24e79f4e647050b71.jpg" />
+<img width="400" height="400" alt="image" src="https://64.media.tumblr.com/82650b05300424c25b21c646fcd1cdf5/c9236764be8fbca1-64/s540x810/96950fba0057056a3c8f8f08fe86288fba1cdfa5.pnj" />
 </p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=fisheito&amp;label=♰&amp;color=171314" alt=""> 
