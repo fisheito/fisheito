@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" height="68" alt="image" src="https://github.com/user-attachments/assets/481470ad-78ca-41f4-98d3-696d03ebe38a" />
+<img width="500" height="68" alt="image" src="https://64.media.tumblr.com/cc7a8dc81214d21eb0bd39cf0ab63bc9/0643613e5c74f0dd-66/s400x600/61d3cb6b5bd16903aff11bdb6959c386c68e7028.gifv" />
 </p>
 　
 <p align="center">
@@ -7,7 +7,7 @@
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b5a2eb0e-7a2d-417b-8d5e-489e33764fb3" />
+<img width="400" height="300" alt="image" src="https://64.media.tumblr.com/31f21e681498316b6a4b98faef06858c/9e5eeabdbca4e6d7-d5/s2048x3072/344626d4334c2aba04ad5d11bf651e712334bc8d.jpg" />
 </p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=fisheito&amp;label=♰&amp;color=171314" alt=""> 
