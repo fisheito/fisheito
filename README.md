@@ -21,7 +21,7 @@
 
   <!-- second line with image floated to the right -->
   <span style="display:inline-block; width:100%; text-align:center; position:relative;">
-    i only play pt for ouma hehe
+        i only play pt for ouma hehe
     <img src="https://ranfren.neocities.org/fun/umu.gif" width="60" style="position:absolute; right:0; top:0;">
   </span>
 
